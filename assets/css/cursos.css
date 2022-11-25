@@ -1,0 +1,102 @@
+main h1 {
+    color: #FF4081;
+    font-size: 60px;
+    font-weight: 700;
+    margin: 81px 0px 5px 82px;
+    text-transform: capitalize;
+}
+
+main h3 {
+    color: #555555;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 82px;
+}
+
+main hr {
+    background: #C4C4C4;
+    width: 1244px;
+    height: 5px;
+    list-style: none;
+    border: none;
+}
+
+.artigo {
+    display: flex;
+}
+
+.artigo img {
+    margin: 95px 0 68px 112px;
+}
+
+.artigo article {
+    text-align: justify;
+    margin-left: 53px;
+}
+
+.artigo article h2 {
+    color: #FF4081;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 37px;
+    margin-top: 108px;
+}
+
+.artigo article p {
+    color: #000000;
+    line-height: 21px;
+    font-weight: 300;
+    font-size: 18px;
+    width: 724px;
+    height: 105px;
+}
+
+#primeiro button {
+    margin-top: 53px;
+    width: 233px;
+    height: 51px;
+    background: #419488;
+    border-radius: 62px;
+    border-style: none;
+    color:#fff;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+}
+
+#segundo button {
+    margin-top: 70px;
+    width: 233px;
+    height: 51px;
+    background: #419488;
+    border-radius: 62px;
+    border-style: none;
+    color:#fff;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+}
+
+#terceiro button {
+    margin-top: 26px;
+    width: 233px;
+    height: 51px;
+    background: #419488;
+    border-radius: 62px;
+    border-style: none;
+    color:#fff;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+}
+
+/* COMEÇA O CSS MODAL */
+
+#modal h2 {
+    color: #FF4081;
+    font-size: 35px;
+    font-weight: 700;
+}

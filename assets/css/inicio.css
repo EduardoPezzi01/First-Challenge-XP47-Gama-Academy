@@ -1,0 +1,16 @@
+/* START MAIN */
+main {
+  padding: 125px 0 ;
+}
+
+main section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+main section article h1 {
+  color: #FF4081;
+  font-size: 60px;
+  font-weight: 700;
+}
